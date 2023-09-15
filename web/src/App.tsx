@@ -1,8 +1,10 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
 
   return (
     <div>
-      Ola
+      <Button>Teste</Button>
     </div>
   )
 }
